@@ -10,6 +10,7 @@
 ## Sitos personales
 * https://notsoweb.com
 * https://notsointelligent.com
+* https://notsoingenuous.com
 ## Lenguajes de programación
 * PHP
 * Javascript
